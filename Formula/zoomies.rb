@@ -4,8 +4,8 @@
 class Zoomies < Formula
   desc "Measured, hardware-aware speed tuning for local LLMs (llama.cpp)"
   homepage "https://github.com/andrewkernel/zoomies"
-  url "https://github.com/andrewkernel/zoomies/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "5416b3ef355b1a33bb691753a6492d008b41d2b8a66d4e05034971228f778726"
+  url "https://github.com/andrewkernel/zoomies/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "38bb87ad698c1ba70f3b934a33ce11e62de21c0f0b2f03a815c0d686459e123e"
   license "MIT"
   head "https://github.com/andrewkernel/zoomies.git", branch: "main"
 
